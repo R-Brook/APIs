@@ -1,1 +1,4 @@
 # APIs
+
+## Stripe
+- Stripe Checkout
